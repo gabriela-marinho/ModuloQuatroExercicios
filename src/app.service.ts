@@ -20,4 +20,7 @@ export class AppService {
   getPorcentagem(numero1: number): number {
     return numero1 / 100;
   }
+  // getPorcentagem(numero1: number): number {
+  //   return numero1 / 100;
+  // }
 }
